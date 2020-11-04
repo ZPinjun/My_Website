@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<font face="Times New Roman" color=black size=5.0>
+<font face="Sitka Subheading" color=black size=5.0>
 
 **2020.11:** Won **Guanghua Scholarship** at HIT.
 
