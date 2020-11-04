@@ -10,7 +10,7 @@ role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: Harbin Institute of Technology
+- name: Harbin Institute of Technology (HIT)
   url: "http://www.hit.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,6 +60,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year graduate student of Harbin Institute of Technology in China, studying in the School of Instrument Science and Engineering, majoring in Instrument Science and Technology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Under the guidance of Prof. [Liyan Qiao](http://homepage.hit.edu.cn/qiaoliyan) and associate Prof. [Ning Fu](http://homepage.hit.edu.cn/funing), I am engaged in theoretical research in the field of signal processing, mainly focusing on inverse problems such as phase retrieval, sub-Nyquist sampling and direction-of-arrival estimation.
