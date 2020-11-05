@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "blank"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -68,24 +68,24 @@ subtitle = ""
 +++
 <font face="Sitka Subheading" color=black size=5.0>
 
-**2020.11:** Won **Guanghua Scholarship** at HIT.
+**<font face="Times New Roman" size=6> 2020.11: </font>** Won **Guanghua Scholarship** at HIT.
 
-**2020.10:** One paper accepted to IEEE Transactions on Instrumentation and Measurement, "[Weighted Phase Retrieval of Fourier Measurement with Outliers: Measurement Structure and Reconstruction Algorithm](https://ieeexplore.ieee.org/document/9235540)".
+**<font face="Times New Roman" size=6> 2020.10: </font>** One paper accepted to IEEE Transactions on Instrumentation and Measurement, "[Weighted Phase Retrieval of Fourier Measurement with Outliers: Measurement Structure and Reconstruction Algorithm](https://ieeexplore.ieee.org/document/9235540)".
 
-**2019.12:** One paper accepted to 2020 IEEE International Instrumentation and Measurement Technology Conference, Dubrovnik, Croatia, "[A Measurement Fault Elimination Method in One-dimensional Fourier Phase Retrieval](https://ieeexplore.ieee.org/document/9129305)".
+**<font face="Times New Roman" size=6> 2019.12: </font>** One paper accepted to 2020 IEEE International Instrumentation and Measurement Technology Conference, Dubrovnik, Croatia, "[A Measurement Fault Elimination Method in One-dimensional Fourier Phase Retrieval](https://ieeexplore.ieee.org/document/9129305)".
 
-**2019.07:** Rated as **the excellent recommended student** for the master's program of Harbin Institute of Technology, recommended for directly admission without exams.
+**<font face="Times New Roman" size=6> 2019.07: </font>** Rated as **the excellent recommended student** for the master's program of Harbin Institute of Technology, recommended for directly admission without exams.
 
-**2019.06:** Graduated from Harbin Institute of Technology and continued to pursue my master’s degree at HIT.
+**<font face="Times New Roman" size=6> 2019.06: </font>** Graduated from Harbin Institute of Technology and continued to pursue my master’s degree at HIT.
 
-**2019.04:** Designated as **Meritorious Winner** in Mathematical Contest in Modeling (MCM).
+**<font face="Times New Roman" size=6> 2019.04: </font>** Designated as **Meritorious Winner** in Mathematical Contest in Modeling (MCM).
 
-**2018.11:** Won **the national second prize** in China Undergraduate Mathematical Contest in Modeling (CUMCM).
+**<font face="Times New Roman" size=6> 2018.11: </font>** Won **the national second prize** in China Undergraduate Mathematical Contest in Modeling (CUMCM).
 
-**2017.12:** Won **Endress+Hauser SC China Scholarship** at HIT. 
+**<font face="Times New Roman" size=6> 2017.12: </font>** Won **Endress+Hauser SC China Scholarship** at HIT. 
 
-**2017.09:** Served as **vice president** of HIT Moyun Calligraphy Society.
+**<font face="Times New Roman" size=6> 2017.09: </font>** Served as **vice president** of HIT Moyun Calligraphy Society.
 
-**2016.11:** Obatained **the National Endeavor Fellowship** at HIT. 
+**<font face="Times New Roman" size=6> 2016.11: </font>** Obatained **the National Endeavor Fellowship** at HIT. 
 
 </font>
