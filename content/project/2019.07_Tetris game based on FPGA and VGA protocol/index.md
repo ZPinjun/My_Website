@@ -10,7 +10,7 @@ summary = "We took part in 2019 summer project of measurement and control in Wei
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ZYNQ", "FPGA", "Digital circuit design"]
+tags = ["FPGA", "VGA protocol"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

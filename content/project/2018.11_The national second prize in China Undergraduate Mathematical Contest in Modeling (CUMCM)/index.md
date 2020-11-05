@@ -30,7 +30,7 @@ China Undergraduate Mathematical Contest in Modeling (CUMCM) is the largest math
 
 My friends T. Chen, H. Liu and I participated in the 2018 CUMCM, and we won the second prize. This contest is in Chinese, and below are the problem we chose and final solution paper we submitted.
 
+{{% staticref "files/CUMCM-2018-Problem-A-Chinese.pdf" %}}Problem{{% /staticref %}}
 
-{% pdf ./CUMCM-2018-Problem-A-Chinese.pdf %}
+{{% staticref "files/A201808007169_陈叹辞_郑品军_刘浩鹏.pdf" %}}Our solution paper{{% /staticref %}}
 
-{% pdf ./A201808007169_陈叹辞_郑品军_刘浩鹏.pdf %}

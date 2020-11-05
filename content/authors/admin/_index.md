@@ -62,4 +62,4 @@ user_groups:
 
 I am currently a second-year graduate student of Harbin Institute of Technology in China, studying in the School of Instrument Science and Engineering, majoring in Instrument Science and Technology.
 
-Under the guidance of Prof. [Liyan Qiao](http://homepage.hit.edu.cn/qiaoliyan) and associate Prof. [Ning Fu](http://homepage.hit.edu.cn/funing), I am engaged in theoretical research in the field of signal processing, mainly focusing on inverse problems such as phase retrieval, sub-Nyquist sampling and direction-of-arrival estimation.
+Under the supervision of Prof. [Liyan Qiao](http://homepage.hit.edu.cn/qiaoliyan) and associate Prof. [Ning Fu](http://homepage.hit.edu.cn/funing), I am engaged in theoretical research in the field of signal processing, mainly focusing on inverse problems such as phase retrieval, sub-Nyquist sampling and direction-of-arrival estimation.

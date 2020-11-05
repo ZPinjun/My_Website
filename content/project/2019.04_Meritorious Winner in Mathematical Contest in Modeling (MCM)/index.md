@@ -33,8 +33,9 @@ My friends T. Chen, Y. Li and I participated in the 2019 MCM, and we won the Mer
 
 Here is the problem we chose:  
 
-{% pdf ./2019_MCM_Problem_A.pdf %}
+{{% staticref "files/2019_MCM_Problem_A.pdf" %}}Problem{{% /staticref %}}
 
-Here is our solution paper at the time: 
 
-{% pdf ./MCM_solution_paper.pdf %}
+Here is our solution paper: 
+
+{{% staticref "files/MCM_solution_paper.pdf" %}}Our solution paper{{% /staticref %}}
