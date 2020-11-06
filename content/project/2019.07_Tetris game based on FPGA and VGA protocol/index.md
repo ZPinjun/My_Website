@@ -6,7 +6,7 @@ title = "Embedded Tetris game based on FPGA and VGA protocol"
 date = 2019-07-20
 
 # Project summary to display on homepage.
-summary = "We took part in 2019 summer project of measurement and control in Weihai, China."
+summary = "We took part in 2019 summer camp of measurement and control in Weihai, China."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -26,11 +26,11 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-# Summer Project of Measurement and Control
+# Summer Camp of Measurement and Control
     
-We took part in 2019 summer project of measurement and control in Weihai, China. See details about [Admission Notice](http://tce.hit.edu.cn/news/1488) 、[News](https://www.hitwh.edu.cn/2019/0715/c1307a110158/page.htm) and [Brochure](https://a.eqxiu.com/s/CEA14EuC?eqrcode=1&share_level=5&from_user=202004275378cf24&from_id=8f96cfe4-c&share_time=1587953016799&from=timeline&isappinstalled=0)。
+We took part in 2019 summer camp of measurement and control in Weihai, China. See details about [Admission Notice](http://tce.hit.edu.cn/news/1488) 、[News](https://www.hitwh.edu.cn/2019/0715/c1307a110158/page.htm) and [Brochure](https://a.eqxiu.com/s/CEA14EuC?eqrcode=1&share_level=5&from_user=202004275378cf24&from_id=8f96cfe4-c&share_time=1587953016799&from=timeline&isappinstalled=0)。
 
-This year's summer project is held in Weihai, from July 14th to July 26th.  I submitted the registration form on June 25 and received the admission notice on July 4.
+This year's camp project is held in Weihai, from July 14th to July 26th.  I submitted the registration form on June 25 and received the admission notice on July 4.
 
 # Project
 

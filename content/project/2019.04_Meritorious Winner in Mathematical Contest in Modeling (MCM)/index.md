@@ -6,7 +6,7 @@ title = "Meritorious Winner in Mathematical Contest in Modeling (MCM)"
 date = 2019-04-20
 
 # Project summary to display on homepage.
-summary = "We participated in the 2019 MCM, and we won the Meritorious Winner."
+summary = "We participated in the 2019 MCM, and my team was designated as meritorious winner."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
